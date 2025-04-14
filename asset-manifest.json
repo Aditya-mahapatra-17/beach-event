@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/beach-event/static/css/main.3cdcfb40.css",
-    "main.js": "/beach-event/static/js/main.1f115d91.js",
-    "index.html": "/beach-event/index.html",
-    "main.3cdcfb40.css.map": "/beach-event/static/css/main.3cdcfb40.css.map",
-    "main.1f115d91.js.map": "/beach-event/static/js/main.1f115d91.js.map"
+    "main.css": "/static/css/main.3cdcfb40.css",
+    "main.js": "/static/js/main.5a0f3d0d.js",
+    "index.html": "/index.html",
+    "main.3cdcfb40.css.map": "/static/css/main.3cdcfb40.css.map",
+    "main.5a0f3d0d.js.map": "/static/js/main.5a0f3d0d.js.map"
   },
   "entrypoints": [
     "static/css/main.3cdcfb40.css",
-    "static/js/main.1f115d91.js"
+    "static/js/main.5a0f3d0d.js"
   ]
 }
